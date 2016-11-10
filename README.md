@@ -1,5 +1,7 @@
 # PUI2016_fb55
 
+# November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harrassment will be tollerated in my class. If you have concernes please come talk to mor attempt to marginalize students 
+
 This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2016. 
 Check here for the new assignments, and for the solutions to be posted. For class material please go [here](https://github.com/fedhere/UInotebooks) (including the lecture slides, [here](https://github.com/fedhere/UInotebooks/tree/master/slides)).
 
