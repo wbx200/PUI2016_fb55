@@ -1,6 +1,8 @@
 # PUI2016 HW 8 for Tuesday session, HW9 for Thursday session. 
 ## But please name your directory HW8_\<netID>
 
+## November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
+
 ## ASSIGNED READING:
 
 No assigned reading.
