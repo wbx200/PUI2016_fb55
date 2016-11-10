@@ -1,6 +1,8 @@
 # PUI2016 HW 8 for Thursday session, HW9 for Tuesday session. 
 ## But please name your directory HW9_\<netID>
 
+# November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
+
 # IMPORTANT NOTE: from this homework on you are graded on [PEP8](https://www.python.org/dev/peps/pep-0008/) compliance as well!
 Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
 
